@@ -1,0 +1,61 @@
+{
+    "alumnos": [
+      {
+        "nombre": "Pedro Vargas Lopez",
+        "asignatura": "Matematicas",
+        "edad": 15
+      },
+      {
+        "nombre": "Juan Perez Mendez",
+        "asignatura": "Lengua",
+        "edad": 17
+      },
+      {
+        "nombre": "Luis Sanhez Hans",
+        "asignatura": "Historia",
+        "edad": 16
+      },
+      {
+        "nombre": "Alejandro Rodriguez Underyte",
+        "asignatura": "Ingles",
+        "edad": 19
+      },
+      {
+        "nombre": "Jorge Marimon Moreno",
+        "asignatura": "Plástica",
+        "edad": 20
+      },
+      {
+        "nombre": "Toni el mago",
+        "asignatura": "Magia",
+        "edad": 21
+      }
+    ],
+    "profesores":[
+      {
+        "nombre": "Maria Millan",
+        "especialidad": "Informatica",
+        "edad": 21
+      },
+      {
+        "nombre": "Josemi",
+        "especialidad": "Educación Fisica",
+        "edad": 25
+      },
+      {
+        "nombre": "Pablo Perez",
+        "especialidad": "Lengua",
+        "edad": 40
+      },
+      {
+        "nombre": "Manuel Leon",
+        "especialidad": "Biologia",
+        "edad": 35
+      },
+      {
+        "nombre": "Cesar Castillo",
+        "especialidad": "Geografia",
+        "edad": 42
+      }
+    ]
+}
